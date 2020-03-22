@@ -15,7 +15,6 @@
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-interface-ivars"
-#import <HockeySDK/HockeySDK.h>
 #pragma clang diagnostic pop
 #import <Sparkle/Sparkle.h>
 
